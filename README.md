@@ -1,5 +1,6 @@
 # web-todo-app
-やることリストのようなものです。以下のサイトに詳しい説明がありました。<br>
+簡易的な「やることリスト」を作成しました。<br>
+ToDo に関しては以下のサイトで詳しい説明がされています。<br>
 <a href="https://service.huddler.app/blog/todo-app/">ToDoアプリとは？3つのメリットとオススメをご紹介-Huddler</a>
 <br>
 
@@ -18,6 +19,18 @@ To Do に表示されている「削除」のリンクをクリックすると T
 To Do とユーザを紐づける必要があるため、ユーザを管理する DB と、To Do を管理する DB で構成しています。<br>
 
 # 参考文献
+<a href="https://www.stock-app.info/media/?p=14941">【徹底解説】ToDoとは？リストの作り方や運用のポイントも解説</a>
+<br>
+
+<a href="https://service.huddler.app/blog/todo-app/">ToDoアプリとは？3つのメリットとオススメをご紹介-Huddler</a>
+<br>
+
+<a href="https://www.mysql.com/jp/">MYSQL</a>
+<br>
+
+<a href="https://www.docker.com/">Docker: Accelerated, Containerized Application Development</a>
+<br>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
