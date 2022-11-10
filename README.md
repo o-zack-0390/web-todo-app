@@ -1,3 +1,23 @@
+# web-todo-app
+やることリストのようなものです。以下のサイトに詳しい説明がありました。<br>
+<a href="https://service.huddler.app/blog/todo-app/">ToDoアプリとは？3つのメリットとオススメをご紹介-Huddler</a>
+<br>
+
+# ユーザの新規登録・ログイン
+未ログイン時には、画面右上にに「Login」「Register」のリンクを表示させ、それぞれ、ログインと新規登録画面へ遷移します。<br>
+
+# To Do の登録・表示
+メイン画面登録フォームから、To Do の登録を行います。<br>
+To Do のデータはログインしたユーザと紐づいているため、ログインしているユーザが登録した To Do のみが表示されます。<br>
+他のユーザに To Do の内容が表示されることはありません。<br>
+
+# To Do の削除
+To Do に表示されている「削除」のリンクをクリックすると To Do が削除されます。<br>
+
+# DB 設計
+To Do とユーザを紐づける必要があるため、ユーザを管理する DB と、To Do を管理する DB で構成しています。<br>
+
+# 参考文献
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,4 +84,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# web-todo-app
