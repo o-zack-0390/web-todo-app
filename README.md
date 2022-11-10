@@ -25,10 +25,16 @@ To Do とユーザを紐づける必要があるため、ユーザを管理す�
 <a href="https://service.huddler.app/blog/todo-app/">ToDoアプリとは？3つのメリットとオススメをご紹介-Huddler</a>
 <br>
 
+<a href="https://b-risk.jp/blog/2022/08/laravel/">【初心者必見】Laravelを1から入門してTodoアプリを作ってみよう</a>
+<br>
+
 <a href="https://www.mysql.com/jp/">MYSQL</a>
 <br>
 
 <a href="https://www.docker.com/">Docker: Accelerated, Containerized Application Development</a>
+<br>
+
+<a href="https://laravel.com/">Laravel - The PHP Framework For Web Artisans</a>
 <br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
